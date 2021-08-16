@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Gra-CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gra-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gra-sass" height="100" width="80" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
 
 </div>
