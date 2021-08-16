@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gra-sass" height="100" width="80" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0009.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0009" /></a>
+ <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0011.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0011" /></a>
 </div>
 
 <div> 
