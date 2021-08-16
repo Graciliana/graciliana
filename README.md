@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
 **Graciliana/graciliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou em transissão de carreira para Tecnologia
+- 🌱 Atualmente estou apredendo Tecnologias para ecommerce
+- 😄 Pronouns: Ela/She/Dela
+
+
  <a href="https://github.com/Graciliana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Graciliana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graciliana&layout=compact&langs_count=7&theme=dracula"/>
@@ -32,10 +27,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Gra-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gra-sass" height="100" width="80" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
-  <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0009.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0009" /></a>
- <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0011.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0011" /></a>
- <a href="https://www.imagensanimadas.com/cat-queba-cabecas-1472.htm"><img src="https://www.imagensanimadas.com/data/media/1472/quebra-cabeca-imagem-animada-0008.gif" border="0" alt="quebra-cabeca-imagem-animada-0008" /></a>
- <a href="https://www.imagensanimadas.com/cat-matrix-568.htm"><img src="https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0004.gif" border="0" alt="matrix-imagem-animada-0004" /></a>
+ 
+ 
 </div>
 
 <div> 
@@ -48,4 +41,9 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/Graciliana/graciliana/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+ <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0009.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0009" /></a>
+ <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0011.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0011" /></a>
+ <a href="https://www.imagensanimadas.com/cat-queba-cabecas-1472.htm"><img src="https://www.imagensanimadas.com/data/media/1472/quebra-cabeca-imagem-animada-0008.gif" border="0" alt="quebra-cabeca-imagem-animada-0008" /></a>
+ <a href="https://www.imagensanimadas.com/cat-matrix-568.htm"><img src="https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0004.gif" border="0" alt="matrix-imagem-animada-0004" /></a>
 
