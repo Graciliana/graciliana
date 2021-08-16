@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Gra-sass" height="100" width="80" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
   <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0009.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0009" /></a>
  <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0011.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0011" /></a>
+ <a href="https://www.imagensanimadas.com/cat-queba-cabecas-1472.htm"><img src="https://www.imagensanimadas.com/data/media/1472/quebra-cabeca-imagem-animada-0008.gif" border="0" alt="quebra-cabeca-imagem-animada-0008" /></a>
+ <a href="https://www.imagensanimadas.com/cat-matrix-568.htm"><img src="https://www.imagensanimadas.com/data/media/568/matrix-imagem-animada-0004.gif" border="0" alt="matrix-imagem-animada-0004" /></a>
 </div>
 
 <div> 
