@@ -32,10 +32,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Gra-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gra-sass" height="100" width="80" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
-
+  <a href="https://www.imagensanimadas.com/cat-ciclismo-e-corridas-de-bicicleta-1124.htm"><img src="https://www.imagensanimadas.com/data/media/1124/ciclismo-e-corrida-de-bicicleta-imagem-animada-0009.gif" border="0" alt="ciclismo-e-corrida-de-bicicleta-imagem-animada-0009" /></a>
 </div>
-  <a href="https://www.imagensanimadas.com/cat-andar-de-bicicleta-1125.htm"><img src="https://www.imagensanimadas.com/data/media/1125/andar-de-bicicleta-imagem-animada-0031.gif" border="0" alt="andar-de-bicicleta-imagem-animada-0031" /></a>
-  ##
+
 <div> 
 
   <a href="https://instagram.com/gracilianakascher/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
