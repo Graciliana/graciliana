@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Estou em transissão de carreira para Tecnologia
-- 🌱 Atualmente estou apredendo Tecnologias para ecommerce
+- 🌱 Atualmente estou apredendo Tecnologias React.js utilizando Material.ui e Firebase
 - 😄 Pronouns: Ela/She/Dela
 
 
