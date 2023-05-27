@@ -1,11 +1,12 @@
-### Hi there 👋
+### Olá pessoal 🚴
 
-**Graciliana/graciliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graciliana/graciliana** é um repositório ✨ _especial_ ✨ porque seu  `README.md` (este arquivo) porque aparece em seu perfil GitHub.
 
-Here are some ideas to get you started:
+Aqui estão algumas idéias para você começar:
 
-- 🔭 Estou em transissão de carreira para Tecnologia
-- 🌱 Atualmente estou apredendo Tecnologias React.js utilizando Material.ui e Firebase
+- 🔭 Atualmente estou Estudadndo para uma nova oportunidade 
+- 🌱 Atualmente estou apredendo Tecnologias Node.js, Typescript, Python, Big Date, MongoDB,PySpark,JavaScript
+-  📫 Como entrar em contato comigo: eagraciliana@gmail.com
 - 😄 Pronouns: Ela/She/Dela
 
 
