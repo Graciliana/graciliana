@@ -26,8 +26,8 @@ Aqui estão algumas idéias para você começar:
   <img align="center" alt="HTML" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg alt="jupyter" height="100" width="80" />
+  <img alt="Javascript" height="100" width="80 src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+   <img alt="Javascript" height="100" width="80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
