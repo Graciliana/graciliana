@@ -26,15 +26,12 @@ Aqui estão algumas idéias para você começar:
   <img align="center" alt="HTML" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Javascript" height="100" width="80 src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
+
  
           
           
           
-          
-                  
- 
- 
+      
 </div>
 
 <div> 
