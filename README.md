@@ -17,17 +17,17 @@ Aqui estão algumas idéias para você começar:
 <div style="display: inline_block"><br>
   
   
-  <img align="center" alt="Gra-Js" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gra-Ts" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gra-React" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Javascript" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typscript" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gra-MYSQL" height="120" width="80" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Gra-Java" height="100" width="80" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gra-node" height="100" width="80" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gra-HTML" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gra-CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gra-Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="100" width="80" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="node" height="100" width="80" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="HTML" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gra-npm" height="100" width="80" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg alt="jupyter" height="100" width="80" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
