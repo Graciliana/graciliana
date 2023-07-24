@@ -4,8 +4,8 @@
 
 Aqui estão algumas idéias para você começar:
 
-- 🔭 Atualmente estou Estudadndo para uma nova oportunidade 
-- 🌱 Atualmente estou apredendo Tecnologias Node.js, Typescript, Python, Big Date, MongoDB,PySpark,JavaScript
+- 🔭 Atualmente estou Estudadndo  e em procura de uma nova oportunidade 
+- 🌱 Atualmente estou apredendo Tecnologias Java, Node.js, Typescript, Python, Big Date, MongoDB,PySpark,JavaScript
 -  📫 Como entrar em contato comigo: eagraciliana@gmail.com
 - 😄 Pronouns: Ela/She/Dela
 
