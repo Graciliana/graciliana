@@ -1,13 +1,12 @@
 ### Olá pessoal 🚴
 
-**Graciliana/graciliana** é um repositório ✨ _especial_ ✨ porque seu  `README.md` (este arquivo) porque aparece em seu perfil GitHub.
+**Graciliana/graciliana** é um repositório ✨ _especial_ ✨ porque é meu  `README.md`.
 
-Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou Estudadndo  e em procura de uma nova oportunidade 
-- 🌱 Atualmente estou apredendo Tecnologias Java, Node.js, Typescript, Python, Big Date, MongoDB,PySpark,JavaScript
+- 🔭 Estágio de Desenvolvimento de AI com python
+- 🚀 
+- 🌱 Atualmente estou apredendo Tecnologias  Node.js, Typescript, Python, Big Date, MongoDB,PySpark,JavaScript
 -  📫 Como entrar em contato comigo: eagraciliana@gmail.com
-- 😄 Pronouns: Ela/She/Dela
+- 😄 Pronouns: Ela/She/Dela/Her
 
 
  <a href="https://github.com/Graciliana">
@@ -29,9 +28,7 @@ Aqui estão algumas idéias para você começar:
 
  
           
-          
-          
-      
+              
 </div>
 
 <div> 
