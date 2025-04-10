@@ -6,6 +6,7 @@
 - 🚀 
 - 🌱 Desenvolvendo projetos utilizando python, react, Fasck, django, node.js, Mysql, PowerBI 
 -  📫 Como entrar em contato comigo: eagraciliana@gmail.com
+-                                    <https://www.linkedin.com/in/gracilianakascher>
 - 😄 Pronouns: Ela/She/Dela/Her
 
 
@@ -36,7 +37,7 @@
   <a href="https://instagram.com/gracilianakascher/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Graciliana#4196" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eagraciliana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/graciliana-kascher-00745977/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gracilianakascher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Graciliana/graciliana/blob/output/github-contribution-grid-snake.svg)
  
