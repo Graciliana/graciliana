@@ -1,10 +1,10 @@
-### Olá pessoal 🚴
+### Oiii eu sou a Graciliana Kascher, desenvolvedora de AI com python 🚴
 
 **Graciliana/graciliana** é um repositório ✨ _especial_ ✨ porque é meu  `README.md`.
 
 - 🔭 Estágio de Desenvolvimento de AI com python
 - 🚀 
-- 🌱 Atualmente estou apredendo Tecnologias  Node.js, Typescript, Python, Big Date, MongoDB,PySpark,JavaScript
+- 🌱 Desenvolvendo projetos utilizando python, react, Fasck, django, node.js, Mysql, PowerBI 
 -  📫 Como entrar em contato comigo: eagraciliana@gmail.com
 - 😄 Pronouns: Ela/She/Dela/Her
 
