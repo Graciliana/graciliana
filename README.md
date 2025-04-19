@@ -6,7 +6,7 @@
 - 🚀 
 - 🌱 Desenvolvendo projetos utilizando Python, React, Django, node.js, Mysql, PowerBI, Streamlit, Tailwind CSS
 -  📫 Como entrar em contato comigo: eagraciliana@gmail.com
-  https://www.linkedin.com/in/gracilianakascher
+-   Https://www.linkedin.com/in/gracilianakascher
 - 😄 Pronouns: Ela/She/Dela/Her
 
 
